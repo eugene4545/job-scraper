@@ -61,5 +61,5 @@ The notebook will save the scraped job data into a CSV file named `United_States
 Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request, have a crack at it!.
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
