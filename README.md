@@ -1,5 +1,5 @@
 # LinkedIn Job Scraper
-This repository contains a Jupyter notebook for scraping job postings from LinkedIn for the position of "Frontend Developer" in the United States. The script collects various details about each job posting and saves the data into a CSV file.
+This repository contains a Jupyter notebook for scraping job postings from LinkedIn for any role in any location. The script collects various details about each job posting and saves the data into a CSV file.
 
 ## Features
 - Scrapes job postings from LinkedIn based on specified job title and location.
@@ -11,7 +11,7 @@ This repository contains a Jupyter notebook for scraping job postings from Linke
 1. Clone the repository:
 
       ```
-      git clone https://github.com/yourusername/linkedin-job-scraper.git
+      git clone https://github.com/eugene4545/linkedin-job-scraper.git
       cd linkedin-job-scraper
       
       ```
@@ -50,7 +50,7 @@ This repository contains a Jupyter notebook for scraping job postings from Linke
 
 
 # Output
-The notebook will save the scraped job data into a CSV file named `United_States_Frontend_Developer.csv` in the same directory.
+The notebook will save the scraped job data into a CSV file named `United_States_Frontend_Developer.csv` in the same directory.You can customize the job title and location within the notebook to search for different roles in different locations.
 
 # Notes
 -  The script is designed to handle rate limiting by LinkedIn by checking the response status and waiting if necessary.
