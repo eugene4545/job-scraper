@@ -53,8 +53,8 @@ This repository contains a Jupyter notebook for scraping job postings from Linke
 The notebook will save the scraped job data into a CSV file named `United_States_Frontend_Developer.csv` in the same directory.You can customize the job title and location within the notebook to search for different roles in different locations.
 
 # Notes
--  The script is designed to handle rate limiting by LinkedIn by checking the response status and waiting if necessary.
--  Ensure that you comply with LinkedIn's terms of service when using this script for web scraping.
+The script is designed to handle rate limiting by LinkedIn by checking the response status and waiting if necessary.
+
 
 
 # Contributing
